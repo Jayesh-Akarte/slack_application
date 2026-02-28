@@ -1,4 +1,4 @@
-# Flutter Chat UI Assignment
+# Messaging Application
 
 This is chat like stack interface.
 This is a messaging application.
